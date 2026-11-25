@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.log
+
+# intermediate artefacts (leading-underscore convention in this project)
+_*
+
+# publisher PDFs — copyright, do not commit
+papers/
+
+# bulky and regenerable
+ligands/
+docking_out/
+scratch/
+
+# never commit: unpublished assay data and designed structures
+assays/
+designs/

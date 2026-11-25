@@ -1,0 +1,11 @@
+query,chembl_id,pref_name,smiles
+isobutylamido thiazolyl resorcinol,CHEMBL24147,RESORCINOL,Oc1cccc(O)c1
+4-butylresorcinol,CHEMBL450195,RUCINOL,CCCCc1ccc(O)cc1O
+rucinol,CHEMBL450195,RUCINOL,CCCCc1ccc(O)cc1O
+cysteamine,CHEMBL602,CYSTEAMINE,NCCS
+hydroquinone,CHEMBL537,HYDROQUINONE,Oc1ccc(O)cc1
+kojic acid,CHEMBL287556,KOJIC ACID,O=c1cc(CO)occ1O
+arbutin,CHEMBL232202,ARBUTIN,OC[C@H]1O[C@@H](Oc2ccc(O)cc2)[C@H](O)[C@@H](O)[C@@H]1O
+tranexamic acid,CHEMBL877,TRANEXAMIC ACID,NC[C@H]1CC[C@H](C(=O)O)CC1
+resveratrol,CHEMBL165,RESVERATROL,Oc1ccc(/C=C/c2cc(O)cc(O)c2)cc1
+azelaic acid,CHEMBL1238,AZELAIC ACID,O=C(O)CCCCCCCC(=O)O

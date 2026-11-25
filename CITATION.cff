@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "htyr-benchmark: a locked benchmark for human tyrosinase inhibitor ranking"
+message: "If you use this benchmark, please cite it."
+authors:
+  - family-names: Garg
+    given-names: Deepanshu
+repository-code: "https://github.com/YOUR_GH_HANDLE/htyr-benchmark"
+license: MIT

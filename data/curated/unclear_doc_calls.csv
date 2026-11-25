@@ -1,0 +1,20 @@
+document_chembl_id,pmid,doi,title,n_unclear,fungal_terms,human_terms,call
+CHEMBL1129764,,10.1016/0960-894X(96)00221-1,Synthesis of N-kojic-amino acid and N-kojic-amino acid-kojiate and their tyrosinase inhibitory ,12,,,UNKNOWN
+CHEMBL1142601,16872137.0,10.1021/np0600853,Biphenyl glycosides from the fruit of Pyracantha fortuneana.,5,,,UNKNOWN
+CHEMBL1146556,12880321.0,10.1021/np030054x,Acetophenone derivatives from Acronychia pedunculata.,2,,,UNKNOWN
+CHEMBL1146595,14510598.0,10.1021/np030034v,Constituents from the leaves of Phellodendron amurense var. wilsonii and their bioactivity.,1,,,UNKNOWN
+CHEMBL1148597,16275084.0,10.1016/j.bmcl.2005.09.085,New tyrosinase inhibitors selected by atomic linear indices-based classification models.,7,,,UNKNOWN
+CHEMBL1153005,19359068.0,10.1016/j.ejmech.2009.03.020,Synthesis and biological evaluation of curcumin-like diarylpentanoid analogues for anti-inflamm,18,,,UNKNOWN
+CHEMBL1156902,20097083.0,10.1016/j.bmc.2010.01.005,"Evaluation of 3,4-dihydroquinazoline-2(1H)-thiones as inhibitors of alpha-MSH-induced melanin p",1,,b16,HUMAN
+CHEMBL1759884,21334791.0,10.1016/j.ejmech.2011.01.065,Synthesis and evaluation of bibenzyl glycosides as potent tyrosinase inhibitors.,8,,,UNKNOWN
+CHEMBL3400083,25726329.0,10.1016/j.bmcl.2015.02.028,Effect of the tyrosinase inhibitor (S)-N-trans-feruloyloctopamine from garlic skin on tyrosinas,2,mushroom,b16,BOTH
+CHEMBL3616365,26386819.0,10.1016/j.bmc.2015.09.014,Rhododendrol glycosides as stereospecific tyrosinase inhibitors.,12,,,UNKNOWN
+CHEMBL3808312,26841168.0,10.1021/acs.jnatprod.5b00877,Bioactive Constituents of Glycyrrhiza uralensis (Licorice): Discovery of the Effective Componen,3,,,UNKNOWN
+CHEMBL4052601,28140583.0,10.1021/acs.jnatprod.6b00783,"Glycybridins A-K, Bioactive Phenolic Compounds from Glycyrrhiza glabra.",4,,,UNKNOWN
+CHEMBL4130583,29227656.0,10.1021/acs.jnatprod.7b00453,"Artocarmins G-M, Prenylated 4-Chromenones from the Stems of Artocarpus rigida and Their Tyrosin",4,,,UNKNOWN
+CHEMBL4392888,31199638.0,10.1021/acs.jnatprod.8b00948,"Isolation of Sesquiterpene-Amino Acid Conjugates, Onopornoids A-D, and a Flavonoid Glucoside fr",14,,,UNKNOWN
+CHEMBL4393659,30909021.0,10.1016/j.ejmech.2019.03.021,Insights into the chemistry and therapeutic potential of furanones: A versatile pharmacophore.,2,fungal,,FUNGAL
+CHEMBL4613206,30622025.0,10.1016/j.ejmech.2018.12.066,Recent applications of hydantoin and thiohydantoin in medicinal chemistry.,2,,,UNKNOWN
+CHEMBL4613211,30739824.0,10.1016/j.ejmech.2019.01.078,Aurone: A biologically attractive scaffold as anticancer agent.,1,,,UNKNOWN
+CHEMBL5143656,35395370.0,10.1016/j.bmcl.2022.128722,"Polyphenolic compounds: Synthesis, assessment of antimicrobial effect and enzymes inhibition ag",6,,,UNKNOWN
+CHEMBL5241085,34147747.0,10.1016/j.ejmech.2021.113537,"Pyrazolotriazines: Biological activities, synthetic strategies and recent developments.",2,,,UNKNOWN

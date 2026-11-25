@@ -1,0 +1,13 @@
+molecule_chembl_id,pref_name,smiles,pAct_median,pAct_spread,n_measurements,types,docs,flag_noisy,source,role
+PUBCHEM:13650,3-hydroxycoumarin,C1=CC=C2C(=C1)C=C(C(=O)O2)O,5.47,0.0,1,Ki,Roulier2020 Fig7 #27,False,roulier2020,anchor
+PUBCHEM:440473,L-mimosine,C1=CN(C=C(C1=O)O)C[C@@H](C(=O)O)N,4.99,0.0,1,Ki,Roulier2020 Fig7 #28,False,roulier2020,anchor
+PUBCHEM:676454,phenylthiourea,C1=CC=C(C=C1)NC(=S)N,5.77,0.0,1,Ki,Roulier2020 Fig7 #29,False,roulier2020,anchor
+PUBCHEM:205912,4-butylresorcinol,CCCCC1=C(C=C(C=C1)O)O,5.04,0.0,1,Ki,Roulier2020 Fig7 #30,False,roulier2020,anchor
+PUBCHEM:3610,4-hexylresorcinol,CCCCCCC1=C(C=C(C=C1)O)O,4.41,0.0,1,Ki,Roulier2020 Fig7 #32,False,roulier2020,anchor
+PUBCHEM:243,benzoic acid,C1=CC=C(C=C1)C(=O)O,3.28,0.0,1,Ki,Roulier2020 Tab1,False,roulier2020,anchor
+PUBCHEM:69975,2-hydroxypyridine-N-oxide,C1=CC(=O)N(C=C1)O,3.89,0.0,1,Ki,Roulier2020 Tab1,False,roulier2020,anchor
+PUBCHEM:3840,kojic acid,C1=C(OC=C(C1=O)O)CO,3.46,0.0,1,Ki,Roulier2020 Tab1,False,roulier2020,anchor
+PUBCHEM:5054,resorcinol,C1=CC(=CC(=C1)O)O,,0.0,1,IC50,Roulier2020 Tab1,False,roulier2020,inactive_reference
+PUBCHEM:785,hydroquinone,C1=CC(=CC=C1O)O,2.36,0.0,1,IC50,Roulier2020 Tab1,False,roulier2020,anchor
+PUBCHEM:440936,arbutin,C1=CC(=CC=C1O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O,2.19,0.0,1,IC50,Roulier2020 Tab1,False,roulier2020,anchor
+PUBCHEM:5281416,aesculetin,C1=CC(=O)OC2=CC(=C(C=C21)O)O,,0.0,1,IC50,Roulier2020 Tab1 n.a.,False,roulier2020,inactive_reference

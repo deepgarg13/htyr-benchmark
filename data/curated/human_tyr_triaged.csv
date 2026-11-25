@@ -1,0 +1,437 @@
+assay_description,document_chembl_id,molecule_chembl_id,pchembl_value,relation,standard_relation,standard_type,standard_units,standard_value,type,units,value,target_chembl_id,group,bucket
+Inhibitory activity against mushroom tyrosinase,CHEMBL1148263,CHEMBL430491,6.11,=,=,IC50,nM,780.0,IC50,uM,0.78,CHEMBL1973,human,suspect_fungal
+Inhibitory activity against mushroom tyrosinase,CHEMBL1148263,CHEMBL98924,6.41,=,=,IC50,nM,390.0,IC50,uM,0.39,CHEMBL1973,human,suspect_fungal
+Inhibitory activity against mushroom tyrosinase,CHEMBL1148263,CHEMBL98925,6.48,=,=,IC50,nM,330.0,IC50,uM,0.33,CHEMBL1973,human,suspect_fungal
+Inhibitory activity against mushroom tyrosinase,CHEMBL1148263,CHEMBL321140,5.35,=,=,IC50,nM,4480.0,IC50,uM,4.48,CHEMBL1973,human,suspect_fungal
+Inhibitory activity against mushroom tyrosinase,CHEMBL1148263,CHEMBL432017,5.66,=,=,IC50,nM,2180.0,IC50,uM,2.18,CHEMBL1973,human,suspect_fungal
+Inhibitory activity against mushroom tyrosinase,CHEMBL1148263,CHEMBL287556,4.64,=,=,IC50,nM,22940.0,IC50,uM,22.94,CHEMBL1973,human,suspect_fungal
+Inhibitory activity against mushroom tyrosinase,CHEMBL1148263,CHEMBL317947,5.67,=,=,IC50,nM,2130.0,IC50,uM,2.13,CHEMBL1973,human,suspect_fungal
+Inhibitory activity against mushroom tyrosinase,CHEMBL1148263,CHEMBL317040,6.62,=,=,IC50,nM,240.0,IC50,uM,0.24,CHEMBL1973,human,suspect_fungal
+Inhibitory activity against mushroom tyrosinase,CHEMBL1148263,CHEMBL95890,5.21,=,=,IC50,nM,6170.0,IC50,uM,6.17,CHEMBL1973,human,suspect_fungal
+Compound was evaluated for inhibition of tyrosinase enzyme.,CHEMBL1129764,CHEMBL25249,4.78,=,=,IC50,nM,16660.0,IC50,uM,16.66,CHEMBL1973,human,unclear
+Compound was evaluated for inhibition of tyrosinase enzyme.,CHEMBL1129764,CHEMBL287556,4.64,=,=,IC50,nM,22940.0,IC50,uM,22.94,CHEMBL1973,human,unclear
+Compound was evaluated for inhibition of tyrosinase enzyme.,CHEMBL1129764,CHEMBL25640,5.52,=,=,IC50,nM,3030.0,IC50,uM,3.03,CHEMBL1973,human,unclear
+Compound was evaluated for inhibition of tyrosinase enzyme.,CHEMBL1129764,CHEMBL26443,4.63,=,=,IC50,nM,23210.0,IC50,uM,23.21,CHEMBL1973,human,unclear
+Compound was evaluated for inhibition of tyrosinase enzyme; Not active,CHEMBL1129764,CHEMBL301523,,,,IC50,nM,,IC50,uM,,CHEMBL1973,human,unclear
+Compound was evaluated for inhibition of tyrosinase enzyme.,CHEMBL1129764,CHEMBL1793857,4.81,=,=,IC50,nM,15350.0,IC50,uM,15.35,CHEMBL1973,human,unclear
+Compound was evaluated for inhibition of tyrosinase enzyme.,CHEMBL1129764,CHEMBL24152,7.22,=,=,IC50,nM,60.0,IC50,uM,0.06,CHEMBL1973,human,unclear
+Compound was evaluated for inhibition of tyrosinase enzyme.,CHEMBL1129764,CHEMBL1794031,6.16,=,=,IC50,nM,700.0,IC50,uM,0.7,CHEMBL1973,human,unclear
+Compound was evaluated for inhibition of tyrosinase enzyme.,CHEMBL1129764,CHEMBL24579,4.84,=,=,IC50,nM,14510.0,IC50,uM,14.51,CHEMBL1973,human,unclear
+Compound was evaluated for inhibition of tyrosinase enzyme.,CHEMBL1129764,CHEMBL24765,5.1,=,=,IC50,nM,8000.0,IC50,uM,8.0,CHEMBL1973,human,unclear
+Compound was evaluated for inhibition of tyrosinase enzyme.,CHEMBL1129764,CHEMBL25350,5.62,=,=,IC50,nM,2390.0,IC50,uM,2.39,CHEMBL1973,human,unclear
+Compound was evaluated for inhibition of tyrosinase enzyme.,CHEMBL1129764,CHEMBL24151,5.7,=,=,IC50,nM,2000.0,IC50,uM,2.0,CHEMBL1973,human,unclear
+"Inhibitory activity was evaluated against the oxidation of L-3,4-dihydroxyphenylalanine (L-DOPA) catalyzed by mushroom tyrosinase",CHEMBL1147427,CHEMBL350966,4.52,=,=,IC50,nM,30000.0,IC50,uM,30.0,CHEMBL1973,human,suspect_fungal
+"Inhibitory activity was evaluated against the oxidation of L-3,4-dihydroxyphenylalanine (L-DOPA) catalyzed by mushroom tyrosinase",CHEMBL1147427,CHEMBL161577,4.3,=,=,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,suspect_fungal
+"Inhibitory activity was evaluated against the oxidation of L-3,4-dihydroxyphenylalanine (L-DOPA) catalyzed by mushroom tyrosinase",CHEMBL1147427,CHEMBL353354,5.64,=,=,IC50,nM,2300.0,IC50,uM,2.3,CHEMBL1973,human,suspect_fungal
+"Inhibitory activity was evaluated against the oxidation of L-3,4-dihydroxyphenylalanine (L-DOPA) catalyzed by mushroom tyrosinase",CHEMBL1147427,CHEMBL161598,,=,=,IC50,nM,320000.0,IC50,uM,320.0,CHEMBL1973,human,suspect_fungal
+"Inhibitory activity at a concentration of 0.5 nm, was evaluated against the oxidation of L-3,4-dihydroxyphenylalanine (L-DOPA) catalyzed by mushroom tyrosinase; No inhibitory activity",CHEMBL1147427,CHEMBL161514,,,,IC50,nM,,IC50,uM,,CHEMBL1973,human,suspect_fungal
+"Inhibitory activity was evaluated against the oxidation of L-3,4-dihydroxyphenylalanine (L-DOPA) catalyzed by mushroom tyrosinase",CHEMBL1147427,CHEMBL108925,,=,=,IC50,nM,3300000.0,IC50,uM,3300.0,CHEMBL1973,human,suspect_fungal
+"Inhibitory activity was evaluated against the oxidation of L-3,4-dihydroxyphenylalanine (L-DOPA) catalyzed by mushroom tyrosinase",CHEMBL1147427,CHEMBL15972,,=,=,IC50,nM,820000.0,IC50,uM,820.0,CHEMBL1973,human,suspect_fungal
+Inhibitory activity against mushroom tyrosinase,CHEMBL1136117,CHEMBL232202,,=,=,IC50,nM,32000000.0,IC50,mM,32.0,CHEMBL1973,human,suspect_fungal
+Inhibitory activity against mushroom tyrosinase (approximate value given),CHEMBL1136117,CHEMBL287556,,=,=,IC50,nM,280000.0,IC50,uM,280.0,CHEMBL1973,human,suspect_fungal
+Inhibitory activity against mushroom tyrosinase,CHEMBL1136117,CHEMBL1009,,=,=,IC50,nM,8400000.0,IC50,mM,8.4,CHEMBL1973,human,suspect_fungal
+Inhibitory activity against tyrosinase,CHEMBL1148597,CHEMBL201643,,=,=,IC50,nM,102390.0,IC50,uM,102.39,CHEMBL1973,human,unclear
+Inhibitory activity against tyrosinase,CHEMBL1148597,CHEMBL449483,4.07,=,=,IC50,nM,85010.0,IC50,uM,85.01,CHEMBL1973,human,unclear
+Inhibitory activity against tyrosinase,CHEMBL1148597,CHEMBL372097,4.26,=,=,IC50,nM,54640.0,IC50,uM,54.64,CHEMBL1973,human,unclear
+Inhibitory activity against tyrosinase,CHEMBL1148597,CHEMBL411981,4.86,=,=,IC50,nM,13950.0,IC50,uM,13.95,CHEMBL1973,human,unclear
+Inhibitory activity against tyrosinase,CHEMBL1148597,CHEMBL371147,4.31,=,=,IC50,nM,48920.0,IC50,uM,48.92,CHEMBL1973,human,unclear
+Inhibitory activity against tyrosinase,CHEMBL1148597,CHEMBL378140,4.04,=,=,IC50,nM,92250.0,IC50,uM,92.25,CHEMBL1973,human,unclear
+Inhibitory activity against tyrosinase,CHEMBL1148597,CHEMBL287556,4.78,=,=,IC50,nM,16670.0,IC50,uM,16.67,CHEMBL1973,human,unclear
+Inhibitory activity against tyrosinase in human melanocytes,CHEMBL1148577,CHEMBL201626,4.42,=,=,IC50,nM,38000.0,IC50,uM,38.0,CHEMBL1973,human,human_cell
+Inhibitory activity against tyrosinase in human melanocytes,CHEMBL1148577,CHEMBL199975,4.5,=,=,IC50,nM,31700.0,IC50,uM,31.7,CHEMBL1973,human,human_cell
+Inhibitory activity against tyrosinase in human melanocytes,CHEMBL1148577,CHEMBL426110,4.42,=,=,IC50,nM,38400.0,IC50,uM,38.4,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase,CHEMBL1139674,CHEMBL43065,4.9,=,=,IC50,nM,12700.0,IC50,uM,12.7,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1139674,CHEMBL287556,,=,=,IC50,nM,133400.0,IC50,uM,133.4,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1139674,CHEMBL222164,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1139674,CHEMBL221291,5.8,=,=,IC50,nM,1600.0,IC50,uM,1.6,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1139674,CHEMBL221300,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1139674,CHEMBL46909,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1139674,CHEMBL218269,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1139674,CHEMBL219219,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1139674,CHEMBL219050,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase in Melan-a cells,CHEMBL1139787,CHEMBL147069,5.31,=,=,IC50,nM,4930.0,IC50,uM,4.93,CHEMBL1973,human,murine_cell
+Inhibition of tyrosinase in Melan-a cells,CHEMBL1139787,CHEMBL232202,4.52,=,=,IC50,nM,30260.0,IC50,uM,30.26,CHEMBL1973,human,murine_cell
+Inhibition of tyrosinase in Melan-a cells,CHEMBL1139787,CHEMBL399354,4.84,=,=,IC50,nM,14500.0,IC50,uM,14.5,CHEMBL1973,human,murine_cell
+Inhibition of tyrosinase in Melan-a cells,CHEMBL1139787,CHEMBL246622,4.82,=,=,IC50,nM,15210.0,IC50,uM,15.21,CHEMBL1973,human,murine_cell
+Inhibition of tyrosinase,CHEMBL1146595,CHEMBL287556,,=,=,IC50,nM,125000.0,IC50,uM,125.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1146556,CHEMBL513957,,=,=,IC50,nM,333000.0,IC50,uM,333.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1146556,CHEMBL287556,,=,=,IC50,nM,125000.0,IC50,uM,125.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1142601,CHEMBL232202,,=,=,IC50,nM,230000.0,IC50,mM,0.23,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1142601,CHEMBL498291,,=,=,IC50,nM,140000.0,IC50,mM,0.14,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1142601,CHEMBL526100,4.16,=,=,IC50,nM,70000.0,IC50,mM,0.07,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1142601,CHEMBL497445,,=,=,IC50,nM,450000.0,IC50,mM,0.45,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1142601,CHEMBL497444,,=,=,IC50,nM,2210000.0,IC50,mM,2.21,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL559673,,,,IC50,,,IC50,,,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL129134,4.1,=,=,IC50,nM,79050.0,IC50,uM,79.05,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL476220,,>,>,IC50,nM,250000.0,IC50,uM,250.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL557311,,,,IC50,,,IC50,,,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL128729,,>,>,IC50,nM,250000.0,IC50,uM,250.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL25209,,>,>,IC50,nM,250000.0,IC50,uM,250.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL482409,,>,>,IC50,nM,250000.0,IC50,uM,250.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL474918,,>,>,IC50,nM,250000.0,IC50,uM,250.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL517667,,,,IC50,,,IC50,,,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL477256,,,,IC50,,,IC50,,,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL17205,,,,IC50,,,IC50,,,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL477057,,,,IC50,,,IC50,,,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL562131,,,,IC50,,,IC50,,,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL140,,,,IC50,,,IC50,,,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL7890,,,,IC50,,,IC50,,,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL50,,,,IC50,,,IC50,,,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL430002,,,,IC50,,,IC50,,,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1153005,CHEMBL287556,4.18,=,=,IC50,nM,66550.0,IC50,uM,66.55,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1156902,CHEMBL263376,5.75,=,=,IC50,nM,1800.0,IC50,uM,1.8,CHEMBL1973,human,unclear
+Inhibition of tyrosinase in human HEMn-MP assessed as reduction of melanin level after 2 days by spectrophotometric analysis,CHEMBL1177668,CHEMBL1170090,4.05,=,=,EC50,nM,90000.0,EC50,uM,90.0,CHEMBL1973,human,human_cell
+Inhibition of Tyrosinase,CHEMBL1759884,CHEMBL491409,5.8,=,=,IC50,nM,1600.0,IC50,uM,1.6,CHEMBL1973,human,unclear
+Inhibition of Tyrosinase,CHEMBL1759884,CHEMBL491410,6.37,=,=,IC50,nM,430.0,IC50,uM,0.43,CHEMBL1973,human,unclear
+Inhibition of Tyrosinase,CHEMBL1759884,CHEMBL489989,6.14,=,=,IC50,nM,730.0,IC50,uM,0.73,CHEMBL1973,human,unclear
+Inhibition of Tyrosinase,CHEMBL1759884,CHEMBL1760462,6.11,=,=,IC50,nM,770.0,IC50,uM,0.77,CHEMBL1973,human,unclear
+Inhibition of Tyrosinase,CHEMBL1759884,CHEMBL1760463,6.17,=,=,IC50,nM,680.0,IC50,uM,0.68,CHEMBL1973,human,unclear
+Inhibition of Tyrosinase,CHEMBL1759884,CHEMBL1760464,6.08,=,=,IC50,nM,830.0,IC50,uM,0.83,CHEMBL1973,human,unclear
+Inhibition of Tyrosinase,CHEMBL1759884,CHEMBL499124,6.43,=,=,IC50,nM,370.0,IC50,uM,0.37,CHEMBL1973,human,unclear
+Inhibition of Tyrosinase,CHEMBL1759884,CHEMBL287556,5.13,=,=,IC50,nM,7400.0,IC50,uM,7.4,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1777693,CHEMBL165,,=,=,IC50,nM,3680000.0,IC50,mM,3.68,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1777693,CHEMBL51628,,=,=,IC50,nM,420000.0,IC50,mM,0.42,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1777693,CHEMBL200198,,>,>,IC50,nM,10000000.0,IC50,mM,10.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase,CHEMBL1777693,CHEMBL153505,,>,>,IC50,nM,10000000.0,IC50,mM,10.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase in human HMV-2 melanoma cells after 5 mins by spectrophotometry,CHEMBL3352108,CHEMBL3343986,5.04,=,=,IC50,nM,9100.0,IC50,uM,9.1,CHEMBL1973,human,human_cell
+Competitive inhibition of tyrosinase in human G-361 cells incubated for 10 mins measured for 2 hrs by MBTH-based spectrophotometry,CHEMBL3352108,CHEMBL287556,,=,=,IC50,nM,571170.0,IC50,uM,571.17,CHEMBL1973,human,unclear
+Competitive inhibition of tyrosinase in human G-361 cells incubated for 10 mins measured for 2 hrs by MBTH-based spectrophotometry,CHEMBL3352108,CHEMBL1275999,5.94,=,=,IC50,nM,1150.0,IC50,uM,1.15,CHEMBL1973,human,unclear
+Competitive inhibition of tyrosinase in human G-361 cells incubated for 10 mins measured for 2 hrs by MBTH-based spectrophotometry,CHEMBL3352108,CHEMBL48310,5.05,=,=,IC50,nM,8980.0,IC50,uM,8.98,CHEMBL1973,human,unclear
+Competitive inhibition of tyrosinase in human G-361 cells incubated for 10 mins measured for 2 hrs by MBTH-based spectrophotometry,CHEMBL3352108,CHEMBL1275969,,>,>,IC50,nM,1000000.0,IC50,uM,1000.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL3400083,CHEMBL242080,4.27,=,=,IC50,nM,54200.0,IC50,uM,54.2,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL3400083,CHEMBL196,4.49,=,=,IC50,nM,32500.0,IC50,uM,32.5,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate assessed as formation of dopachrome by spectrophotometric analysis,CHEMBL3616365,CHEMBL443605,6.25,=,=,IC50,nM,560.0,IC50,uM,0.56,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate assessed as formation of dopachrome by spectrophotometric analysis,CHEMBL3616365,CHEMBL3618460,5.7,=,=,IC50,nM,1980.0,IC50,uM,1.98,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate assessed as formation of dopachrome by spectrophotometric analysis,CHEMBL3616365,CHEMBL3100130,5.82,=,=,IC50,nM,1510.0,IC50,uM,1.51,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate assessed as formation of dopachrome by spectrophotometric analysis,CHEMBL3616365,CHEMBL3100134,5.76,=,=,IC50,nM,1720.0,IC50,uM,1.72,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate assessed as formation of dopachrome by spectrophotometric analysis,CHEMBL3616365,CHEMBL3618459,5.75,=,=,IC50,nM,1780.0,IC50,uM,1.78,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate assessed as formation of dopachrome by spectrophotometric analysis,CHEMBL3616365,CHEMBL3100132,5.64,=,=,IC50,nM,2300.0,IC50,uM,2.3,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate assessed as formation of dopachrome by spectrophotometric analysis,CHEMBL3616365,CHEMBL287556,5.04,=,=,IC50,nM,9150.0,IC50,uM,9.15,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate assessed as formation of dopachrome by spectrophotometric analysis,CHEMBL3616365,CHEMBL3618458,5.38,=,=,IC50,nM,4130.0,IC50,uM,4.13,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate assessed as formation of dopachrome by spectrophotometric analysis,CHEMBL3616365,CHEMBL3100135,5.42,=,=,IC50,nM,3830.0,IC50,uM,3.83,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate assessed as formation of dopachrome by spectrophotometric analysis,CHEMBL3616365,CHEMBL3100133,5.34,=,=,IC50,nM,4560.0,IC50,uM,4.56,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate assessed as formation of dopachrome by spectrophotometric analysis,CHEMBL3616365,CHEMBL3618457,5.66,=,=,IC50,nM,2170.0,IC50,uM,2.17,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate assessed as formation of dopachrome by spectrophotometric analysis,CHEMBL3616365,CHEMBL3100131,5.33,=,=,IC50,nM,4720.0,IC50,uM,4.72,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-tyrosine as substrate assessed as oxidation of L-tyrosine after 15 mins,CHEMBL3808312,CHEMBL1563332,6.81,=,=,IC50,nM,154.0,IC50,nM,154.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-tyrosine as substrate assessed as oxidation of L-tyrosine after 15 mins,CHEMBL3808312,CHEMBL1630857,6.75,=,=,IC50,nM,177.0,IC50,nM,177.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-tyrosine as substrate assessed as oxidation of L-tyrosine after 15 mins,CHEMBL3808312,CHEMBL150,6.0,=,=,IC50,nM,1000.0,IC50,uM,1.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase in human MNT1 cells assessed as suppression of melanin biosynthesis measured after 96 hrs,CHEMBL3870357,CHEMBL287556,,=,=,IC50,nM,15000000.0,IC50,uM,15000.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT1 cells assessed as suppression of melanin biosynthesis measured after 96 hrs,CHEMBL3870357,CHEMBL3898657,,=,=,IC50,nM,150000.0,IC50,uM,150.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT1 cells assessed as suppression of melanin biosynthesis measured after 96 hrs,CHEMBL3870357,CHEMBL3969839,,=,=,IC50,nM,119000.0,IC50,uM,119.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT1 cells assessed as suppression of melanin biosynthesis measured after 96 hrs,CHEMBL3870357,CHEMBL3907670,,=,=,IC50,nM,120000.0,IC50,uM,120.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT1 cells assessed as suppression of melanin biosynthesis measured after 96 hrs,CHEMBL3870357,CHEMBL3978212,4.07,=,=,IC50,nM,85300.0,IC50,uM,85.3,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT1 cell lysate pretreated prior to addition of L-DOPA as substrate measured after 3 hrs,CHEMBL3870357,CHEMBL287556,,=,=,IC50,nM,2800000.0,IC50,uM,2800.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT1 cell lysate pretreated prior to addition of L-DOPA as substrate measured after 3 hrs,CHEMBL3870357,CHEMBL3898657,,=,=,IC50,nM,1300000.0,IC50,uM,1300.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT1 cell lysate pretreated prior to addition of L-DOPA as substrate measured after 3 hrs,CHEMBL3870357,CHEMBL3969839,4.47,=,=,IC50,nM,34000.0,IC50,uM,34.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT1 cell lysate pretreated prior to addition of L-DOPA as substrate measured after 3 hrs,CHEMBL3870357,CHEMBL3907670,4.52,=,=,IC50,nM,30000.0,IC50,uM,30.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT1 cell lysate pretreated prior to addition of L-DOPA as substrate measured after 3 hrs,CHEMBL3870357,CHEMBL3978212,4.78,=,=,IC50,nM,16600.0,IC50,uM,16.6,CHEMBL1973,human,human_cell
+Inhibition of recombinant human tyrosinase expressed in baculovirus infected Sf9 cells assessed as diphenolase activity using L-DOPA as substrate by UV-vis spectrophotometry,CHEMBL3870357,CHEMBL287556,,=,=,Ki,nM,350000.0,Ki,uM,350.0,CHEMBL1973,human,human_enzyme
+Inhibition of recombinant human tyrosinase expressed in baculovirus infected Sf9 cells assessed as diphenolase activity using L-DOPA as substrate by UV-vis spectrophotometry,CHEMBL3870357,CHEMBL3898657,,=,=,Ki,nM,128000.0,Ki,uM,128.0,CHEMBL1973,human,human_enzyme
+Inhibition of recombinant human tyrosinase expressed in baculovirus infected Sf9 cells assessed as diphenolase activity using L-DOPA as substrate by UV-vis spectrophotometry,CHEMBL3870357,CHEMBL3978212,6.46,=,=,Ki,nM,350.0,Ki,uM,0.35,CHEMBL1973,human,human_enzyme
+Inhibition of tyrosinase (unknown origin) using L-tyrosine as substrate preincubated for 5 mins followed by substrate addition,CHEMBL4052601,CHEMBL480477,7.05,=,=,IC50,nM,90.0,IC50,uM,0.09,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-tyrosine as substrate preincubated for 15 mins followed by substrate addition,CHEMBL4052601,CHEMBL4071801,5.29,=,=,IC50,nM,5100.0,IC50,uM,5.1,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-tyrosine as substrate preincubated for 15 mins followed by substrate addition,CHEMBL4052601,CHEMBL462722,5.12,=,=,IC50,nM,7500.0,IC50,uM,7.5,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-tyrosine as substrate preincubated for 15 mins followed by substrate addition,CHEMBL4052601,CHEMBL4071144,5.55,=,=,IC50,nM,2800.0,IC50,uM,2.8,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-dihydroxyphenylalanine as substrate preincubated for 30 mins followed by substrate addition measured for 7 mins by spectrophotometric analysis,CHEMBL4130583,CHEMBL287556,4.35,=,=,IC50,nM,44600.0,IC50,uM,44.6,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-dihydroxyphenylalanine as substrate preincubated for 30 mins followed by substrate addition measured for 7 mins by spectrophotometric analysis,CHEMBL4130583,CHEMBL441343,5.03,=,=,IC50,nM,9350.0,IC50,uM,9.35,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-dihydroxyphenylalanine as substrate preincubated for 30 mins followed by substrate addition measured for 7 mins by spectrophotometric analysis,CHEMBL4130583,CHEMBL463145,7.64,=,=,IC50,nM,23.0,IC50,uM,0.023,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-dihydroxyphenylalanine as substrate preincubated for 30 mins followed by substrate addition measured for 7 mins by spectrophotometric analysis,CHEMBL4130583,CHEMBL4159961,4.34,=,=,IC50,nM,45300.0,IC50,uM,45.3,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate preincubated with substrate for 5 mins followed by enzyme addition and measured immediately by spectrophotometric method,CHEMBL4308889,CHEMBL4586957,,=,=,IC50,nM,417000.0,IC50,uM,417.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL4470963,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL4540001,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL4460139,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL4464806,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL4590166,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL487017,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL4550704,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL464868,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL454778,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL487018,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL4452110,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL509502,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL250450,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4392888,CHEMBL388452,,>,>,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) assessed as reduction in melanin formation,CHEMBL4393659,CHEMBL3182150,4.3,=,=,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) assessed as reduction in melanin formation,CHEMBL4393659,CHEMBL232202,,>,>,IC50,nM,1600.0,IC50,uM,1.6,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4411257,CHEMBL165,,=,=,IC50,nM,250000.0,IC50,uM,250.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4411257,CHEMBL394855,7.16,=,=,IC50,nM,70.0,IC50,uM,0.07,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4411257,CHEMBL465880,7.1,=,=,IC50,nM,80.0,IC50,uM,0.08,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4411257,CHEMBL4436373,5.33,=,=,IC50,nM,4620.0,IC50,uM,4.62,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4411257,CHEMBL4239110,6.77,=,=,IC50,nM,170.0,IC50,uM,0.17,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4411257,CHEMBL4441954,5.32,=,=,IC50,nM,4770.0,IC50,uM,4.77,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4411257,CHEMBL4467559,5.1,=,=,IC50,nM,7890.0,IC50,uM,7.89,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4411257,CHEMBL4437059,,=,=,IC50,nM,290000.0,IC50,uM,290.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4411257,CHEMBL458395,6.01,=,=,IC50,nM,980.0,IC50,uM,0.98,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4411257,CHEMBL512578,5.1,=,=,IC50,nM,8000.0,IC50,uM,8.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4411257,CHEMBL232202,,=,=,IC50,nM,164000.0,IC50,uM,164.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) assessed as reduction in monophenolase activity,CHEMBL4411257,CHEMBL4572517,4.9,=,=,IC50,nM,12600.0,IC50,uM,12.6,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) assessed as reduction in monophenolase activity,CHEMBL4411257,CHEMBL4556868,4.72,=,=,IC50,nM,19200.0,IC50,uM,19.2,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) assessed as reduction in monophenolase activity,CHEMBL4411257,CHEMBL3810334,5.71,=,=,IC50,nM,1950.0,IC50,uM,1.95,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) assessed as reduction in monophenolase activity,CHEMBL4411257,CHEMBL4466751,5.05,=,=,IC50,nM,8970.0,IC50,uM,8.97,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) assessed as reduction in monophenolase activity,CHEMBL4411257,CHEMBL287556,4.57,=,=,IC50,nM,26800.0,IC50,uM,26.8,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) assessed as reduction in diphenolase activity,CHEMBL4411257,CHEMBL4572517,4.9,=,=,IC50,nM,12600.0,IC50,uM,12.6,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) assessed as reduction in diphenolase activity,CHEMBL4411257,CHEMBL4556868,4.37,=,=,IC50,nM,42800.0,IC50,uM,42.8,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) assessed as reduction in diphenolase activity,CHEMBL4411257,CHEMBL3810334,5.55,=,=,IC50,nM,2790.0,IC50,uM,2.79,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) assessed as reduction in diphenolase activity,CHEMBL4411257,CHEMBL4466751,4.58,=,=,IC50,nM,26200.0,IC50,uM,26.2,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) assessed as reduction in diphenolase activity,CHEMBL4411257,CHEMBL287556,4.7,=,=,IC50,nM,20000.0,IC50,uM,20.0,CHEMBL1973,human,unclear
+Inhibition of human tyrosinase,CHEMBL4411257,CHEMBL450195,4.68,=,=,IC50,nM,21000.0,IC50,uM,21.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase,CHEMBL4411257,CHEMBL48310,5.05,=,=,IC50,nM,8980.0,IC50,uM,8.98,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase,CHEMBL4411257,CHEMBL1275999,5.94,=,=,IC50,nM,1150.0,IC50,uM,1.15,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase,CHEMBL4411257,CHEMBL3898657,,=,=,Ki,nM,128000.0,Ki,uM,128.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase,CHEMBL4411257,CHEMBL287556,,=,=,IC50,nM,500000.0,IC50,uM,500.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase,CHEMBL4411257,CHEMBL537,,=,=,IC50,nM,4400000.0,IC50,uM,4400.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase,CHEMBL4411257,CHEMBL232202,,=,=,IC50,nM,6500000.0,IC50,uM,6500.0,CHEMBL1973,human,human_enzyme
+Inhibition of recombinant human tyrosinase expressed in baculovirus infected Sf9 cells using L-DOPA as substrate by spectrophotometric analysis,CHEMBL4411257,CHEMBL3978212,4.78,=,=,IC50,nM,16600.0,IC50,uM,16.6,CHEMBL1973,human,human_enzyme
+Inhibition of recombinant human tyrosinase expressed in baculovirus infected Sf9 cells using L-DOPA as substrate by spectrophotometric analysis,CHEMBL4411257,CHEMBL3907670,4.52,=,=,IC50,nM,30000.0,IC50,uM,30.0,CHEMBL1973,human,human_enzyme
+Inhibition of recombinant human tyrosinase expressed in baculovirus infected Sf9 cells using L-DOPA as substrate by spectrophotometric analysis,CHEMBL4411257,CHEMBL3969839,4.52,=,=,IC50,nM,30000.0,IC50,uM,30.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase after 120 mins,CHEMBL4411257,CHEMBL66879,5.52,=,=,IC50,nM,3000.0,IC50,uM,3.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase after 120 mins,CHEMBL4411257,CHEMBL146816,4.52,=,=,IC50,nM,30000.0,IC50,uM,30.0,CHEMBL1973,human,human_enzyme
+Inhibition of tyrosinase (unknown origin),CHEMBL4613206,CHEMBL2079256,5.13,=,=,IC50,nM,7360.0,IC50,uM,7.36,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4613206,CHEMBL2078992,5.97,=,=,IC50,nM,1070.0,IC50,uM,1.07,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL4613211,CHEMBL3978212,5.82,=,=,IC50,nM,1500.0,IC50,uM,1.5,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase expressed in HEK 293 cells using L-DOPA as substrate by Lineweaver-Burk plot analysis,CHEMBL4715852,CHEMBL4743159,6.6,=,=,Ki,nM,250.0,Ki,uM,0.25,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase expressed in HEK 293 cells using L-DOPA as substrate by Lineweaver-Burk plot analysis,CHEMBL4715852,CHEMBL450195,5.04,=,=,Ki,nM,9100.0,Ki,uM,9.1,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase expressed in HEK 293 cells using L-DOPA as substrate by Lineweaver-Burk plot analysis,CHEMBL4715852,CHEMBL443605,4.41,=,=,Ki,nM,39000.0,Ki,uM,39.0,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase expressed in HEK 293 cells using L-DOPA as substrate by Lineweaver-Burk plot analysis,CHEMBL4715852,CHEMBL3961037,4.62,=,=,Ki,nM,24000.0,Ki,uM,24.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase in human neonatal foreskin epidermal melanocyte cells using L-tyrosine and L-DOPA as substrate preincubated for 2 days followed by cell lysis and subsequent substrate addition and measured after 3 hr by spectrophotometric method,CHEMBL4715852,CHEMBL4473314,6.0,=,=,IC50,nM,1000.0,IC50,uM,1.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human neonatal foreskin epidermal melanocyte cells using L-tyrosine and L-DOPA as substrate preincubated for 2 days followed by cell lysis and subsequent substrate addition and measured after 3 hr by spectrophotometric method,CHEMBL4715852,CHEMBL218924,6.0,=,=,IC50,nM,1000.0,IC50,uM,1.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in neonatal human epidermal melanocytes,CHEMBL4715852,CHEMBL202844,4.3,=,=,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in neonatal human epidermal melanocytes,CHEMBL4715852,CHEMBL66879,5.7,=,=,IC50,nM,2000.0,IC50,uM,2.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in neonatal human epidermal melanocytes,CHEMBL4715852,CHEMBL146816,4.52,=,=,IC50,nM,30000.0,IC50,uM,30.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human neonatal foreskin epidermal melanocyte cells using L-DOPA as substrate preincubated for 24 hrs followed by cell lysis and subsequent substrate addition and measured after 1 hr by ELISA,CHEMBL4715852,CHEMBL4751258,4.07,=,=,IC50,nM,85000.0,IC50,uM,85.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human neonatal foreskin epidermal melanocyte cells using L-DOPA as substrate preincubated for 24 hrs followed by cell lysis and subsequent substrate addition and measured after 1 hr by ELISA,CHEMBL4715852,CHEMBL492818,4.5,=,=,IC50,nM,32000.0,IC50,uM,32.0,CHEMBL1973,human,human_cell
+Inhibition of human tyrosinase expressed in HEK293 cells using L-tyrosine as substrate and DOPA as cofactor by indirect spectrophotometric method,CHEMBL4715852,CHEMBL151,4.22,=,=,IC50,nM,60000.0,IC50,uM,60.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase expressed in HEK293 cells using L-tyrosine as substrate and DOPA as cofactor by indirect spectrophotometric method,CHEMBL4715852,CHEMBL4749970,4.8,=,=,IC50,nM,16000.0,IC50,uM,16.0,CHEMBL1973,human,human_enzyme
+Mixed inhibition of recombinant human tyrosinase expressed in baculovirus infected sf9 cells using L-DOPA as substrate by double-reciprocal plot analysis,CHEMBL4715852,CHEMBL541,,=,=,Ki,nM,520000.0,Ki,uM,520.0,CHEMBL1973,human,human_enzyme
+Inhibition of human His-tagged tyrosinase expressed in HEK 293 cells using L-DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL537,,=,=,IC50,nM,4400000.0,IC50,uM,4400.0,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase expressed in HEK 293 cells using L-DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL287556,,=,=,IC50,nM,500000.0,IC50,uM,500.0,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase expressed in HEK 293 cells using L-DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL443605,4.03,=,=,IC50,nM,94000.0,IC50,uM,94.0,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase expressed in HEK 293 cells using L-DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL3961037,,=,=,IC50,nM,131000.0,IC50,uM,131.0,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase expressed in HEK 293 cells using L-DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL450195,4.68,=,=,IC50,nM,21000.0,IC50,uM,21.0,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase expressed in HEK 293 cells using L-DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL232202,,=,=,IC50,nM,6500000.0,IC50,uM,6500.0,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase expressed in HEK 293 cells using L-DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL24147,,>,>,IC50,nM,3000000.0,IC50,uM,3000.0,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase expressed in HEK 293 cells using L-DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL4743159,5.96,=,=,IC50,nM,1100.0,IC50,uM,1.1,CHEMBL1973,human,unclear
+Inhibition of tyrosinase in human HBL cell extract using L-DOPA as substrate measured every 10 mins for 1 hr by MBTH based spectrophotometric method,CHEMBL4715852,CHEMBL4750803,4.12,=,=,IC50,nM,76000.0,IC50,uM,76.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase in human HBL cell extract using L-DOPA as substrate measured every 10 mins for 1 hr by MBTH based spectrophotometric method,CHEMBL4715852,CHEMBL4750112,4.52,=,=,IC50,nM,30000.0,IC50,uM,30.0,CHEMBL1973,human,unclear
+"Inhibition of tyrosinase in human melanocytes using L-[3,5-3H]-tyrosine as substrate incubated for 1 to 3 days by liquid scintillation counting method",CHEMBL4715852,CHEMBL16217,5.0,=,=,IC50,nM,10000.0,IC50,uM,10.0,CHEMBL1973,human,human_cell
+Inhibition of human HMV-II cell derived tyrosinase using DOPA as substrate incubated for 5 mins by light absorbance method,CHEMBL4715852,CHEMBL2413822,4.66,=,=,IC50,nM,22000.0,IC50,uM,22.0,CHEMBL1973,human,unclear
+Inhibition of human HMV-II cell derived tyrosinase using DOPA as substrate incubated for 5 mins by light absorbance method,CHEMBL4715852,CHEMBL3343986,5.04,=,=,IC50,nM,9100.0,IC50,uM,9.1,CHEMBL1973,human,unclear
+Inhibition of human HMV-II cell derived tyrosinase using DOPA as substrate incubated for 5 mins by light absorbance method,CHEMBL4715852,CHEMBL43065,5.12,=,=,IC50,nM,7600.0,IC50,uM,7.6,CHEMBL1973,human,unclear
+Inhibition of tyrosinase in human melanocyte cells using L-DOPA as substrate by absorbance method,CHEMBL4715852,CHEMBL140,5.3,=,=,IC50,nM,5000.0,IC50,uM,5.0,CHEMBL1973,human,human_cell
+Inhibition of human HMV-II cell derived tyrosinase using L-DOPA as substrate by light absorbance method,CHEMBL4715852,CHEMBL4793063,5.6,=,=,IC50,nM,2500.0,IC50,uM,2.5,CHEMBL1973,human,unclear
+Competitive inhibition of recombinant human tyrosinase expressed in baculovirus infected sf9 cells using L-DOPA as substrate by double-reciprocal plot analysis,CHEMBL4715852,CHEMBL245416,4.99,=,=,Ki,nM,10300.0,Ki,uM,10.3,CHEMBL1973,human,human_enzyme
+Uncompetitive inhibition of recombinant human tyrosinase expressed in baculovirus infected sf9 cells using L-DOPA as substrate by double-reciprocal plot analysis,CHEMBL4715852,CHEMBL263376,5.77,=,=,Ki,nM,1700.0,Ki,uM,1.7,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL4794995,4.12,=,=,Ki,nM,75000.0,Ki,uM,75.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL4777553,4.0,=,=,Ki,nM,100000.0,Ki,uM,100.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL4782537,5.5,=,=,IC50,nM,3200.0,IC50,uM,3.2,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL4795966,5.6,=,=,IC50,nM,2500.0,IC50,uM,2.5,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL4792744,5.8,=,=,IC50,nM,1600.0,IC50,uM,1.6,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL4757374,5.34,=,=,IC50,nM,4600.0,IC50,uM,4.6,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL590969,5.58,=,=,IC50,nM,2600.0,IC50,uM,2.6,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL1491393,5.5,=,=,IC50,nM,3200.0,IC50,uM,3.2,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL541251,4.29,=,=,IC50,nM,51000.0,IC50,uM,51.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL4763438,5.85,=,=,IC50,nM,1400.0,IC50,uM,1.4,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL4751526,4.34,=,=,Ki,nM,46000.0,Ki,uM,46.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL1269349,4.72,=,=,Ki,nM,19000.0,Ki,uM,19.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL1269350,4.57,=,=,Ki,nM,27000.0,Ki,uM,27.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL4746238,4.3,=,=,Ki,nM,50000.0,Ki,uM,50.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L- DOPA as substrate by MBTH based assay,CHEMBL4715852,CHEMBL1269399,4.34,=,=,Ki,nM,46000.0,Ki,uM,46.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase expressed in human SKMEL188 cell lysate using L- DOPA as substrate incubated for 8 hrs,CHEMBL4715852,CHEMBL4745622,5.7,=,=,IC50,nM,2000.0,IC50,uM,2.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase expressed in HEK293 cells using L-tyrosine and DOPA as substrate,CHEMBL4715852,CHEMBL43065,7.05,=,=,IC50,nM,90.0,IC50,uM,0.09,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase expressed in HEK293 cells using L-tyrosine and DOPA as substrate by absorbance method,CHEMBL4715852,CHEMBL165,5.77,=,=,IC50,nM,1700.0,IC50,uM,1.7,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase expressed in Escherichia coli,CHEMBL4715852,CHEMBL150372,5.47,=,=,Ki,nM,3400.0,Ki,uM,3.4,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase expressed in HEK293 cells,CHEMBL4715852,CHEMBL66879,5.7,=,=,IC50,nM,2000.0,IC50,uM,2.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase expressed in HEK293 cells,CHEMBL4715852,CHEMBL4757912,5.0,=,=,IC50,nM,10000.0,IC50,uM,10.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase expressed in HEK293 cells,CHEMBL4715852,CHEMBL4759198,4.4,=,=,IC50,nM,40000.0,IC50,uM,40.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase expressed in HEK293 cells,CHEMBL4715852,CHEMBL165,5.05,=,=,IC50,nM,9000.0,IC50,uM,9.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase assessed as reduction in L-dopaquinone-MBTH complex formation using L-DOPA as substrate measured for 10 mins by spectrophotometric analysis,CHEMBL4732017,CHEMBL4743159,5.66,=,=,IC50,nM,2200.0,IC50,uM,2.2,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase assessed as reduction in L-dopaquinone-MBTH complex formation using L-DOPA as substrate measured for 10 mins by spectrophotometric analysis,CHEMBL4732017,CHEMBL4741095,5.25,=,=,IC50,nM,5600.0,IC50,uM,5.6,CHEMBL1973,human,human_enzyme
+Inhibition of tyrosinase (unknown origin),CHEMBL4818984,CHEMBL193598,4.48,=,=,IC50,nM,33330.0,IC50,uM,33.33,CHEMBL1973,human,unclear
+Inhibition of human tyrosinase,CHEMBL5034028,CHEMBL5092669,,=,=,IC50,nM,112700.0,IC50,uM,112.7,CHEMBL1973,human,human_enzyme
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate incubated for 10 mins,CHEMBL5143656,CHEMBL1831286,5.63,=,=,IC50,nM,2320.0,IC50,uM,2.32,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate incubated for 10 mins,CHEMBL5143656,CHEMBL5174709,5.55,=,=,IC50,nM,2830.0,IC50,uM,2.83,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using L-DOPA as substrate incubated for 10 mins,CHEMBL5143656,CHEMBL287556,,=,=,IC50,ug.mL-1,3.49,IC50,ug ml-1,3.49,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL5143656,CHEMBL150,4.19,=,=,IC50,nM,65110.0,IC50,uM,65.11,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL5143656,CHEMBL50,4.35,=,=,IC50,nM,44380.0,IC50,uM,44.38,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL5143656,CHEMBL266564,4.11,=,=,IC50,nM,78530.0,IC50,uM,78.53,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using DOPA as substrate incubated for 15 min by spectrophotometer assay,CHEMBL5233214,CHEMBL498879,,=,=,IC50,ug.mL-1,0.908,IC50,ug ml-1,0.908,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using DOPA as substrate incubated for 15 min by spectrophotometer assay,CHEMBL5233214,CHEMBL226335,,=,=,IC50,ug.mL-1,0.856,IC50,ug ml-1,0.856,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using DOPA as substrate incubated for 15 min by spectrophotometer assay,CHEMBL5233214,CHEMBL151,,=,=,IC50,ug.mL-1,0.613,IC50,ug ml-1,0.613,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using DOPA as substrate incubated for 15 min by spectrophotometer assay,CHEMBL5233214,CHEMBL251254,,=,=,IC50,ug.mL-1,0.762,IC50,ug ml-1,0.762,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using DOPA as substrate incubated for 15 min by spectrophotometer assay,CHEMBL5233214,CHEMBL477832,,=,=,IC50,ug.mL-1,635.0,IC50,ug ml-1,635.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using DOPA as substrate incubated for 15 min by spectrophotometer assay,CHEMBL5233214,CHEMBL448500,,=,=,IC50,ug.mL-1,315.0,IC50,ug ml-1,315.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) using DOPA as substrate incubated for 15 min by spectrophotometer assay,CHEMBL5233214,CHEMBL287556,,=,=,IC50,ug.mL-1,80.0,IC50,ug ml-1,80.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL5233214,CHEMBL287556,,=,=,IC50,ug.mL-1,260.0,IC50,mg/ml,0.26,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) incubated for 20 mins,CHEMBL5241085,CHEMBL5282145,4.51,=,=,IC50,nM,30760.0,IC50,uM,30.76,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin) incubated for 20 mins,CHEMBL5241085,CHEMBL5274281,4.55,=,=,IC50,nM,27900.0,IC50,uM,27.9,CHEMBL1973,human,unclear
+Inhibition of human his tagged tyrosinase expressed in HEK293 cells using L-DOPA as substrate incubated for 10 mins by microtitre plate reader analysis,CHEMBL5241093,CHEMBL541251,,=,=,EC50,ug.mL-1,51.0,EC50,ug ml-1,51.0,CHEMBL1973,human,unclear
+Inhibition of human his tagged tyrosinase expressed in HEK293 cells using L-DOPA as substrate by HTS analysis,CHEMBL5241093,CHEMBL4743159,5.96,=,=,IC50,nM,1100.0,IC50,umol/L,1.1,CHEMBL1973,human,unclear
+Competitive inhibition of human recombinant tyrosinase expressed in Sf9 cells using L-DOPA as substrate by Michelis-Menten based analysis,CHEMBL5325409,CHEMBL287556,,=,=,Ki,nM,350000.0,Ki,uM,350.0,CHEMBL1973,human,unclear
+Competitive inhibition of human recombinant tyrosinase expressed in Sf9 cells using L-DOPA as substrate by Michelis-Menten based analysis,CHEMBL5325409,CHEMBL3898657,,=,=,Ki,nM,128000.0,Ki,uM,128.0,CHEMBL1973,human,unclear
+Competitive inhibition of human recombinant tyrosinase expressed in Sf9 cells using L-DOPA as substrate by Michelis-Menten based analysis,CHEMBL5325409,CHEMBL5434151,5.12,=,=,Ki,nM,7500.0,Ki,uM,7.5,CHEMBL1973,human,unclear
+Competitive inhibition of human recombinant tyrosinase expressed in Sf9 cells using L-DOPA as substrate by Michelis-Menten based analysis,CHEMBL5325409,CHEMBL5436239,5.22,=,=,Ki,nM,6000.0,Ki,uM,6.0,CHEMBL1973,human,unclear
+Competitive inhibition of human recombinant tyrosinase expressed in Sf9 cells using L-DOPA as substrate by Michelis-Menten based analysis,CHEMBL5325409,CHEMBL5434506,5.1,=,=,Ki,nM,8000.0,Ki,uM,8.0,CHEMBL1973,human,unclear
+Competitive inhibition of human recombinant tyrosinase expressed in Sf9 cells using L-DOPA as substrate by Michelis-Menten based analysis,CHEMBL5325409,CHEMBL5432409,4.12,=,=,Ki,nM,76000.0,Ki,uM,76.0,CHEMBL1973,human,unclear
+Uncompetitive inhibition of human recombinant tyrosinase expressed in Sf9 cells using L-DOPA as substrate by Michelis-Menten based analysis,CHEMBL5325409,CHEMBL287556,,=,=,Ki,nM,730000.0,Ki,uM,730.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase in human MNT-1 cell lysates assessed as inhibition of melanin production using L-DOPA as substrate measured after 3 hrs,CHEMBL5325409,CHEMBL3898657,,=,=,IC50,nM,1300000.0,IC50,uM,1300.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates assessed as inhibition of melanin production using L-DOPA as substrate measured after 3 hrs,CHEMBL5325409,CHEMBL5436239,4.05,=,=,IC50,nM,90000.0,IC50,uM,90.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates assessed as inhibition of melanin production using L-DOPA as substrate measured after 3 hrs,CHEMBL5325409,CHEMBL5434506,4.13,=,=,IC50,nM,73600.0,IC50,uM,73.6,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates assessed as inhibition of melanin production using L-DOPA as substrate measured after 3 hrs,CHEMBL5325409,CHEMBL5432409,,=,=,IC50,nM,277000.0,IC50,uM,277.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells assessed as inhibition of melanin production measured after 96 hrs,CHEMBL5325409,CHEMBL3898657,,=,=,IC50,nM,200000.0,IC50,uM,200.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells assessed as inhibition of melanin production measured after 96 hrs,CHEMBL5325409,CHEMBL5436239,,>,>,IC50,nM,400000.0,IC50,uM,400.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells assessed as inhibition of melanin production measured after 96 hrs,CHEMBL5325409,CHEMBL5434506,,>,>,IC50,nM,400000.0,IC50,uM,400.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells assessed as inhibition of melanin production measured after 96 hrs,CHEMBL5325409,CHEMBL5432409,,>,>,IC50,nM,400000.0,IC50,uM,400.0,CHEMBL1973,human,human_cell
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL1491393,5.5,=,=,IC50,nM,3200.0,IC50,uM,3.2,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL1329457,4.72,=,=,IC50,nM,19000.0,IC50,uM,19.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5400210,,>,>,IC50,nM,700000.0,IC50,uM,700.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5440042,,>,>,IC50,nM,700000.0,IC50,uM,700.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5432134,,>,>,IC50,nM,700000.0,IC50,uM,700.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5435329,4.25,=,=,IC50,nM,56000.0,IC50,uM,56.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5409608,5.5,=,=,IC50,nM,3200.0,IC50,uM,3.2,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL4782537,5.25,=,=,IC50,nM,5600.0,IC50,uM,5.6,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5410003,5.21,=,=,IC50,nM,6200.0,IC50,uM,6.2,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5436579,5.96,=,=,IC50,nM,1100.0,IC50,uM,1.1,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL4743159,5.85,=,=,IC50,nM,1400.0,IC50,uM,1.4,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL4763438,5.24,=,=,IC50,nM,5700.0,IC50,uM,5.7,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5413687,5.24,=,=,IC50,nM,5700.0,IC50,uM,5.7,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL590969,5.58,=,=,IC50,nM,2600.0,IC50,uM,2.6,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5416304,5.46,=,=,IC50,nM,3500.0,IC50,uM,3.5,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5414108,5.5,=,=,IC50,nM,3200.0,IC50,uM,3.2,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5410488,4.03,=,=,IC50,nM,93000.0,IC50,uM,93.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL3961037,,=,=,IC50,nM,130000.0,IC50,uM,130.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL450195,4.68,=,=,IC50,nM,21000.0,IC50,uM,21.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5417995,,>,>,IC50,nM,200000.0,IC50,uM,200.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5414956,,>,>,IC50,nM,200000.0,IC50,uM,200.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5440495,4.4,=,=,IC50,nM,40000.0,IC50,uM,40.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5430655,4.8,=,=,IC50,nM,16000.0,IC50,uM,16.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL4757374,5.34,=,=,IC50,nM,4600.0,IC50,uM,4.6,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5415814,,>,>,IC50,nM,1000000.0,IC50,uM,1000.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5435436,,>,>,IC50,nM,1000000.0,IC50,uM,1000.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate incubated for 10 to 20 mins by MBTH dye based assay,CHEMBL5331042,CHEMBL5412774,,>,>,IC50,nM,1000000.0,IC50,uM,1000.0,CHEMBL1973,human,human_enzyme
+Inhibition of human His-tagged tyrosinase CD expressed in HEK293 cells assessed as inhibition of melanin production using L-DOPA as substrate,CHEMBL5331042,CHEMBL4743159,6.05,=,=,IC50,nM,900.0,IC50,uM,0.9,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase CD expressed in HEK293 cells assessed as inhibition of melanin production using L-DOPA as substrate,CHEMBL5331042,CHEMBL287556,,=,=,IC50,nM,400000.0,IC50,uM,400.0,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase CD expressed in HEK293 cells assessed as inhibition of melanin production using L-DOPA as substrate,CHEMBL5331042,CHEMBL232202,,>,>,IC50,nM,4000000.0,IC50,uM,4000.0,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase CD expressed in HEK293 cells assessed as inhibition of melanin production using L-DOPA as substrate,CHEMBL5331042,CHEMBL1086681,,=,=,IC50,nM,1200000.0,IC50,uM,1200.0,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase CD expressed in HEK293 cells assessed as inhibition of melanin production using L-DOPA as substrate,CHEMBL5331042,CHEMBL537,4.82,=,=,IC50,nM,15000.0,IC50,uM,15.0,CHEMBL1973,human,unclear
+Inhibition of human His-tagged tyrosinase CD expressed in HEK293 cells assessed as inhibition of melanin production using L-DOPA as substrate,CHEMBL5331042,CHEMBL450195,4.87,=,=,IC50,nM,13500.0,IC50,uM,13.5,CHEMBL1973,human,unclear
+Binding affinity to human His-tagged tyrosinase CD expressed in HEK293 cells assessed as inhibition constant using L-DOPA as substrate by HTS assay,CHEMBL5331042,CHEMBL4743159,6.6,=,=,Ki,nM,250.0,Ki,uM,0.25,CHEMBL1973,human,unclear
+Binding affinity to human His-tagged tyrosinase CD expressed in HEK293 cells assessed as inhibition constant using L-DOPA as substrate by HTS assay,CHEMBL5331042,CHEMBL443605,4.41,=,=,Ki,nM,39000.0,Ki,uM,39.0,CHEMBL1973,human,unclear
+Binding affinity to human His-tagged tyrosinase CD expressed in HEK293 cells assessed as inhibition constant using L-DOPA as substrate by HTS assay,CHEMBL5331042,CHEMBL450195,5.05,=,=,Ki,nM,9000.0,Ki,uM,9.0,CHEMBL1973,human,unclear
+Binding affinity to human His-tagged tyrosinase CD expressed in HEK293 cells assessed as inhibition constant using L-DOPA as substrate by HTS assay,CHEMBL5331042,CHEMBL3961037,4.62,=,=,Ki,nM,24000.0,Ki,uM,24.0,CHEMBL1973,human,unclear
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL3978212,4.82,=,=,IC50,nM,15000.0,IC50,uM,15.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5396212,4.75,=,=,IC50,nM,18000.0,IC50,uM,18.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL1814434,4.6,=,=,IC50,nM,25000.0,IC50,uM,25.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5418068,4.72,=,=,IC50,nM,19000.0,IC50,uM,19.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL1807311,5.19,=,=,IC50,nM,6400.0,IC50,uM,6.4,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL1807492,5.16,=,=,IC50,nM,6900.0,IC50,uM,6.9,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5411705,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5426205,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5435799,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5399906,5.8,=,=,IC50,nM,1570.0,IC50,uM,1.57,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5427200,4.1,=,=,IC50,nM,80000.0,IC50,uM,80.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL1814444,5.11,=,=,IC50,nM,7700.0,IC50,uM,7.7,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5425960,4.74,=,=,IC50,nM,18400.0,IC50,uM,18.4,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL1172321,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5405551,4.06,=,=,IC50,nM,88000.0,IC50,uM,88.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5412546,4.93,=,=,IC50,nM,11800.0,IC50,uM,11.8,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5418183,4.1,=,=,IC50,nM,80000.0,IC50,uM,80.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5394207,4.5,=,=,IC50,nM,32000.0,IC50,uM,32.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5432681,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5399513,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL287556,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL450195,5.08,=,=,IC50,nM,8300.0,IC50,uM,8.3,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5274383,5.24,=,=,IC50,nM,5800.0,IC50,uM,5.8,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5394983,5.47,=,=,IC50,nM,3400.0,IC50,uM,3.4,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5408197,5.8,=,=,IC50,nM,1600.0,IC50,uM,1.6,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5404839,5.09,=,=,IC50,nM,8200.0,IC50,uM,8.2,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5404928,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5403418,4.9,=,=,IC50,nM,12700.0,IC50,uM,12.7,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5416835,5.64,=,=,IC50,nM,2300.0,IC50,uM,2.3,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5428256,5.23,=,=,IC50,nM,5900.0,IC50,uM,5.9,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5405017,5.24,=,=,IC50,nM,5800.0,IC50,uM,5.8,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5421537,4.32,=,=,IC50,nM,48000.0,IC50,uM,48.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL373249,4.22,=,=,IC50,nM,60000.0,IC50,uM,60.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL1374610,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5420730,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5400410,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5426749,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5423130,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5397672,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5396899,4.82,=,=,IC50,nM,15000.0,IC50,uM,15.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cell lysates using L-DOPA as substrate assessed as reduction in melanin formation preincubated for 10 mins followed by substrate addition and measured by microplate reader analysis,CHEMBL5352459,CHEMBL5400587,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of C-terminal His-tagged truncated form of human tyrosinase (1 to 456 residues) expressed in HEK293T cells using L-DOPA as substrate assessed as inhibition constant incubated for 1 hr by microplate reader analysis,CHEMBL5352459,CHEMBL5399906,6.26,=,=,Ki,nM,550.0,Ki,uM,0.55,CHEMBL1973,human,human_enzyme
+Inhibition of C-terminal His-tagged truncated form of human tyrosinase (1 to 456 residues) expressed in HEK293T cells using L-DOPA as substrate assessed as inhibition constant incubated for 1 hr by microplate reader analysis,CHEMBL5352459,CHEMBL287556,,=,=,Ki,nM,1100000.0,Ki,uM,1100.0,CHEMBL1973,human,human_enzyme
+Inhibition of C-terminal His-tagged truncated form of human tyrosinase (1 to 456 residues) expressed in HEK293T cells using L-DOPA as substrate assessed as inhibition constant incubated for 1 hr by microplate reader analysis,CHEMBL5352459,CHEMBL5408197,6.6,=,=,Ki,nM,250.0,Ki,uM,0.25,CHEMBL1973,human,human_enzyme
+Mixed type inhibition of human recombinant tyrosinase assessed as inhibition constant using L-DOPA as substrate by double reciprocal plot analysis,CHEMBL5352459,CHEMBL287556,,=,=,Ki,nM,350000.0,Ki,uM,350.0,CHEMBL1973,human,unclear
+Inhibition of human tyrosinase,CHEMBL5352459,CHEMBL24147,,>,>,IC50,nM,3000000.0,IC50,uM,3000.0,CHEMBL1973,human,human_enzyme
+Inhibition of truncated His-tagged human tyrosinase expressed in HEK293 cells using L-DOPA as substrate by MBTH dye based assay,CHEMBL5352459,CHEMBL450195,4.68,=,=,IC50,nM,21000.0,IC50,uM,21.0,CHEMBL1973,human,human_enzyme
+Inhibition of truncated His-tagged human tyrosinase catalytic domain expressed in HEK293 cells using L-DOPA as substrate,CHEMBL5352459,CHEMBL4743159,5.96,=,=,IC50,nM,1100.0,IC50,uM,1.1,CHEMBL1973,human,human_enzyme
+Inhibition of truncated His-tagged human tyrosinase catalytic domain expressed in HEK293 cells using L-DOPA as substrate assessed as inhibition constant,CHEMBL5352459,CHEMBL4743159,6.6,=,=,Ki,nM,250.0,Ki,uM,0.25,CHEMBL1973,human,human_enzyme
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5558083,5.75,=,=,IC50,nM,1800.0,IC50,uM,1.8,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5563317,4.82,=,=,IC50,nM,15000.0,IC50,uM,15.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5558133,5.05,=,=,IC50,nM,9000.0,IC50,uM,9.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5532313,4.18,=,=,IC50,nM,66000.0,IC50,uM,66.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5560542,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5557491,4.3,=,=,IC50,nM,50000.0,IC50,uM,50.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5532330,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5556099,6.14,=,=,IC50,nM,720.0,IC50,uM,0.72,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5557324,6.05,=,=,IC50,nM,890.0,IC50,uM,0.89,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5567977,4.62,=,=,IC50,nM,24000.0,IC50,uM,24.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5562348,6.85,=,=,IC50,nM,140.0,IC50,uM,0.14,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5558420,6.82,=,=,IC50,nM,150.0,IC50,uM,0.15,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5555033,6.75,=,=,IC50,nM,180.0,IC50,uM,0.18,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5566780,6.46,=,=,IC50,nM,350.0,IC50,uM,0.35,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5555075,5.36,=,=,IC50,nM,4400.0,IC50,uM,4.4,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5566466,5.7,=,=,IC50,nM,2000.0,IC50,uM,2.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5557086,6.07,=,=,IC50,nM,850.0,IC50,uM,0.85,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL5527846,5.5,=,=,IC50,nM,3200.0,IC50,uM,3.2,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL287556,,>,>,IC50,nM,100000.0,IC50,uM,100.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells using L-DOPA as substrate preincubated for 10 mins followed by substrate addition measured after 180 mins by absorbance based spectramax microplate reader assay,CHEMBL5505967,CHEMBL4743159,6.77,=,=,IC50,nM,170.0,IC50,uM,0.17,CHEMBL1973,human,human_cell
+Inhibition of His-tagged human tyrosinase expressed in HEK293 cells using L-DOPA as substrate by microplate reader analysis,CHEMBL5505967,CHEMBL24147,,>,>,IC50,nM,3000000.0,IC50,uM,3000.0,CHEMBL1973,human,human_enzyme
+Inhibition of His-tagged human tyrosinase expressed in HEK293 cells using L-DOPA as substrate by microplate reader analysis,CHEMBL5505967,CHEMBL450195,4.68,=,=,IC50,nM,21000.0,IC50,uM,21.0,CHEMBL1973,human,human_enzyme
+Binding affinity to His-tagged human tyrosinase expressed in HEK293 cells assessed as inhibition constant by HTS assay,CHEMBL5505967,CHEMBL5408197,6.6,=,=,Ki,nM,250.0,Ki,uM,0.25,CHEMBL1973,human,human_enzyme
+Binding affinity to His-tagged human tyrosinase expressed in HEK293 cells assessed as inhibition constant by HTS assay,CHEMBL5505967,CHEMBL4743159,6.6,=,=,Ki,nM,250.0,Ki,uM,0.25,CHEMBL1973,human,human_enzyme
+Binding affinity to tyrosinase (unknown origin) assessed as dissociation constant by SPR analysis,CHEMBL5506021,CHEMBL5558103,,=,=,Kd,nM,198000.0,Kd,uM,198.0,CHEMBL1973,human,unclear
+Inhibition of C-terminal His-tagged truncated form of human tyrosinase using L-DOPA as substrate by spectrophotometric assay,CHEMBL5518158,CHEMBL5559672,4.58,=,=,IC50,nM,26200.0,IC50,uM,26.2,CHEMBL1973,human,human_enzyme
+Inhibition of C-terminal His-tagged truncated form of human tyrosinase using L-DOPA as substrate by spectrophotometric assay,CHEMBL5518158,CHEMBL5566911,4.58,=,=,IC50,nM,26550.0,IC50,uM,26.55,CHEMBL1973,human,human_enzyme
+Inhibition of C-terminal His-tagged truncated form of human tyrosinase using L-DOPA as substrate by spectrophotometric assay,CHEMBL5518158,CHEMBL5567563,4.39,=,=,IC50,nM,40290.0,IC50,uM,40.29,CHEMBL1973,human,human_enzyme
+Inhibition of C-terminal His-tagged truncated form of human tyrosinase using L-DOPA as substrate by spectrophotometric assay,CHEMBL5518158,CHEMBL5561146,4.33,=,=,IC50,nM,47200.0,IC50,uM,47.2,CHEMBL1973,human,human_enzyme
+Inhibition of C-terminal His-tagged truncated form of human tyrosinase using L-DOPA as substrate by spectrophotometric assay,CHEMBL5518158,CHEMBL5560709,4.32,=,=,IC50,nM,48330.0,IC50,uM,48.33,CHEMBL1973,human,human_enzyme
+Inhibition of C-terminal His-tagged truncated form of human tyrosinase using L-DOPA as substrate by spectrophotometric assay,CHEMBL5518158,CHEMBL5558440,4.36,=,=,IC50,nM,44200.0,IC50,uM,44.2,CHEMBL1973,human,human_enzyme
+Competitive inhibition of His-tagged human tyrosinase expressed in HEK293 cells,CHEMBL5518158,CHEMBL5555785,6.66,=,=,IC50,nM,220.0,IC50,uM,0.22,CHEMBL1973,human,human_enzyme
+Competitive inhibition of His-tagged human tyrosinase expressed in HEK293 cells,CHEMBL5518158,CHEMBL5542638,6.66,=,=,IC50,nM,220.0,IC50,uM,0.22,CHEMBL1973,human,human_enzyme
+Competitive inhibition of His-tagged human tyrosinase expressed in HEK293 cells,CHEMBL5518158,CHEMBL5542520,6.66,=,=,IC50,nM,220.0,IC50,uM,0.22,CHEMBL1973,human,human_enzyme
+Competitive inhibition of His-tagged human tyrosinase expressed in HEK293 cells,CHEMBL5518158,CHEMBL5559732,6.66,=,=,IC50,nM,220.0,IC50,uM,0.22,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase,CHEMBL5523717,CHEMBL4217244,,=,=,IC50,nM,174980.0,IC50,uM,174.98,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase,CHEMBL5523717,CHEMBL5566067,4.55,=,=,IC50,nM,27980.0,IC50,uM,27.98,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase,CHEMBL5523717,CHEMBL5559595,4.69,=,=,IC50,nM,20370.0,IC50,uM,20.37,CHEMBL1973,human,human_enzyme
+Competitive inhibition of human tyrosinase using L-DOPA as substrate by spectrophotometric analysis,CHEMBL5576066,CHEMBL4743159,5.96,=,=,IC50,nM,1100.0,IC50,uM,1.1,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase,CHEMBL5576066,CHEMBL150372,4.58,=,=,IC50,nM,26000.0,IC50,uM,26.0,CHEMBL1973,human,human_enzyme
+Inhibition of tyrosinase (unknown origin),CHEMBL5576070,CHEMBL5594635,7.8,=,=,IC50,nM,16.0,IC50,uM,0.016,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL5576070,CHEMBL5592150,7.8,=,=,IC50,nM,16.0,IC50,uM,0.016,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL5576070,CHEMBL5591296,7.8,=,=,IC50,nM,16.0,IC50,uM,0.016,CHEMBL1973,human,unclear
+Inhibition of tyrosinase (unknown origin),CHEMBL5576070,CHEMBL146,6.92,=,=,IC50,nM,120.0,IC50,uM,0.12,CHEMBL1973,human,unclear
+Competitive inhibition of His-tagged human tyrosinase expressed in HEK293 cells assessed as inhibition constant,CHEMBL5625243,CHEMBL4743159,6.6,=,=,Ki,nM,250.0,Ki,uM,0.25,CHEMBL1973,human,human_enzyme
+Competitive inhibition of His-tagged human tyrosinase expressed in HEK293 cells,CHEMBL5625243,CHEMBL4743159,5.96,=,=,IC50,nM,1100.0,IC50,uM,1.1,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase,CHEMBL5625243,CHEMBL3978212,6.46,=,=,Ki,nM,350.0,Ki,uM,0.35,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase,CHEMBL5625243,CHEMBL5408197,6.6,=,=,Ki,nM,250.0,Ki,uM,0.25,CHEMBL1973,human,human_enzyme
+Inhibition of tyrosinase in human MNT-1 cells,CHEMBL5625243,CHEMBL3978212,4.82,=,=,IC50,nM,15000.0,IC50,uM,15.0,CHEMBL1973,human,human_cell
+Inhibition of tyrosinase in human MNT-1 cells,CHEMBL5625243,CHEMBL5408197,5.8,=,=,IC50,nM,1600.0,IC50,uM,1.6,CHEMBL1973,human,human_cell
+Inhibition of human tyrosinase using L-DOPA as substrate by spectrophotometer analysis,CHEMBL5625243,CHEMBL4750140,,=,=,IC50,nM,1100000.0,IC50,mM,1.1,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate by spectrophotometer analysis,CHEMBL5625243,CHEMBL4743159,5.42,=,=,IC50,nM,3800.0,IC50,uM,3.8,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate by spectrophotometer analysis,CHEMBL5625243,CHEMBL5632644,5.27,=,=,IC50,nM,5400.0,IC50,uM,5.4,CHEMBL1973,human,human_enzyme
+Binding affinity to human tyrosinase using l-DOPA as substrate assessed as inhibition constant by Michaelis-Menten plot analysis,CHEMBL5625243,CHEMBL4743159,6.04,=,=,Ki,nM,920.0,Ki,uM,0.92,CHEMBL1973,human,human_enzyme
+Binding affinity to human tyrosinase using l-DOPA as substrate assessed as inhibition constant by Michaelis-Menten plot analysis,CHEMBL5625243,CHEMBL5632644,5.99,=,=,Ki,nM,1020.0,Ki,uM,1.02,CHEMBL1973,human,human_enzyme
+Binding affinity to human Tyrosinase assessed as inhibition constant,CHEMBL5634078,CHEMBL1269349,4.72,=,=,Ki,nM,19000.0,Ki,uM,19.0,CHEMBL1973,human,human_enzyme
+Binding affinity to human Tyrosinase assessed as inhibition constant,CHEMBL5634078,CHEMBL1818888,,=,=,Ki,nM,260000.0,Ki,uM,260.0,CHEMBL1973,human,human_enzyme
+Binding affinity to human Tyrosinase using L-DOPA as substrate assessed as inhibition constant by Michaelis-Menten analysis,CHEMBL5634078,CHEMBL5434151,5.12,=,=,Ki,nM,7500.0,Ki,uM,7.5,CHEMBL1973,human,human_enzyme
+Binding affinity to human Tyrosinase using L-DOPA as substrate assessed as inhibition constant by Michaelis-Menten analysis,CHEMBL5634078,CHEMBL5500014,5.1,=,=,Ki,nM,8000.0,Ki,uM,8.0,CHEMBL1973,human,human_enzyme
+Binding affinity to human Tyrosinase using L-DOPA as substrate assessed as inhibition constant by Michaelis-Menten analysis,CHEMBL5634078,CHEMBL5647001,4.33,=,=,Ki,nM,47000.0,Ki,uM,47.0,CHEMBL1973,human,human_enzyme
+Binding affinity to human Tyrosinase using L-DOPA as substrate assessed as inhibition constant by Michaelis-Menten analysis,CHEMBL5634078,CHEMBL150372,5.47,=,=,Ki,nM,3400.0,Ki,uM,3.4,CHEMBL1973,human,human_enzyme
+Binding affinity to human recombinant Tyrosinase expressed in Sf9 assessed as inhibition constant,CHEMBL5634078,CHEMBL245416,5.0,=,=,Ki,nM,10000.0,Ki,uM,10.0,CHEMBL1973,human,unclear
+Inhibition of human tyrosinase using L-DOPA as substrate by spectrophotometer analysis,CHEMBL5634078,CHEMBL1275969,,>,>,IC50,nM,1000000.0,IC50,uM,1000.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate by spectrophotometer analysis,CHEMBL5634078,CHEMBL48310,5.05,=,=,IC50,nM,9000.0,IC50,uM,9.0,CHEMBL1973,human,human_enzyme
+Inhibition of human tyrosinase using L-DOPA as substrate by spectrophotometer analysis,CHEMBL5634078,CHEMBL1275999,5.94,=,=,IC50,nM,1150.0,IC50,uM,1.15,CHEMBL1973,human,human_enzyme
+Inhibition of His-tagged truncated human TYR catalytic domain extracted from HEK293 cells using l-dopa as substrate,CHEMBL6182866,CHEMBL4743159,5.96,=,=,IC50,nM,1100.0,IC50,uM,1.1,CHEMBL1973,human,unclear
+Inhibition of His-tagged truncated human TYR catalytic domain extracted from HEK293 cells using l-dopa as substrate,CHEMBL6182866,CHEMBL450195,4.87,=,=,IC50,nM,13500.0,IC50,uM,13.5,CHEMBL1973,human,unclear
+Inhibition of human TYR using L-DOPA as substrate assessed as reduction in diphenolase activity by absorbance based assay,CHEMBL6182866,CHEMBL1236462,4.16,=,=,IC50,nM,70000.0,IC50,mM,0.07,CHEMBL1973,human,unclear

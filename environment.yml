@@ -1,0 +1,15 @@
+name: htyr
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - rdkit
+  - biopython
+  - openmm
+  - pdbfixer
+  - matplotlib
+  - chembl_webresource_client
+  - pip
