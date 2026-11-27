@@ -149,8 +149,22 @@ Thirty-five consistent compounds, or sixteen hundred inconsistent ones. Neither 
 | AlphaFold model of P14679, catalytic domain | pLDDT 98.3–98.9 |
 | Cu(II) cage transplanted from PDB 2Y9X, Kabsch over all 36 His permutations | RMSD **0.41 A** |
 | Trim to residues 19–476, pdbfixer at pH 6.8 | `models/hTYR_receptor.pdb` |
-| Redock of co-crystal ligand 0TR (tropolone) | **1.78 A** |
+| Redock of 0TR in the donor crystal 2Y9X | centroid 1.10 A, all-atom RMSD **2.09 A** |
+| Same redock after metal-term calibration | RMSD **1.78 A** (calibration objective, not validation) |
+| Pose-level validation of the human model | **none available** |
 | UniProt numbering recovered by sequence alignment after pdbfixer renumbering | offset +18, 458/458 identities |
 
 The numbering step exists because pdbfixer silently renumbered from 1 and 15 of 17 active-site
-residues were consequently wrong. See `CORRECTIONS.md` entry 4.
+residues were consequently wrong. See `CORRECTIONS.md` entry 5.
+
+**The human receptor has no pose-level validation.** No crystallographic complex of human
+tyrosinase with any ligand exists to redock against. The 1.78 A figure is the objective function
+of the metal-term calibration, measured in the fungal donor crystal 2Y9X; the parameters were
+selected to minimise it, so it cannot also serve as evidence of model quality. See
+`CORRECTIONS.md` entry 1.
+
+**The default scoring function does not see the copper.** Hydroquinone scored -5.3 kcal/mol in the
+human receptor with copper present, with copper retyped as zinc, and with the metal deleted. In
+2Y9X, 0TR scored -6.20 with and without copper at an identical pose, with a minimum
+ligand-oxygen-to-copper distance of 5.74 A against a crystallographic 3.50 A. Docking against this
+target therefore reduces to shape complementarity, which is what the size confound measures.

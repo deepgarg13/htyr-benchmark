@@ -107,8 +107,12 @@ built and validated as follows:
   Kabsch superposition of the six-histidine cage, brute-forced over all 36 histidine permutations —
   cage RMSD **0.41 A**
 - Trimmed to residues 19–476, protonated with pdbfixer at pH 6.8
-- Validation: redock of co-crystal ligand 0TR to **1.78 A**, pocket packing consistent with the
-  reference crystal
+- Validation: **none at pose level for the human model** -- no crystallographic complex of human
+  tyrosinase exists to redock against. In the donor crystal 2Y9X, 0TR redocks to centroid 1.10 A
+  and RMSD 2.09 A, improving to 1.78 A after metal-term calibration; that 1.78 A is the
+  calibration objective, not independent validation (`CORRECTIONS.md` entry 1)
+- The scoring function does not see the copper: identical scores with the metal present, retyped
+  as zinc, and deleted, in both receptors
 
 Note the asymmetry this creates, and it sharpens rather than weakens the thesis: the catalytic
 copper cage is conserved closely enough between mushroom and human to superpose at 0.41 A, and
@@ -139,7 +143,7 @@ reproduced. Record a new attempt in `ATTEMPTS.md` instead.
 
 ## Corrections
 
-Seven substantive errors were made during this work, two of which produced confident wrong
+Eight substantive errors were made during this work, two of which produced confident wrong
 conclusions that would have redirected the project, and one of which was a gate that did not
 implement its own specification. They are documented with their causes and
 fixes in [`CORRECTIONS.md`](CORRECTIONS.md).

@@ -110,3 +110,22 @@ evaluations. The gate criteria themselves are unchanged — only their implement
 All attempts re-evaluated under both gates; see ATTEMPTS.md. Under 1', Vina falls from raw
 +0.161 to -0.001 and AD4 q0 from +0.086 to -0.243. Attempt 5 (+0.467 holdout) is unaffected:
 25_holdout.py computed 1' inline and never imported gate.py.
+
+
+## AMENDMENT - 27-11-2026 (receptor validation claim withdrawn)
+The project previously described the human receptor as validated by a 1.78 A redock of 0TR. That
+figure is the objective function of the metal-term calibration in 23_rmsd_select.py (2.09 A
+baseline, 1.78 A best), measured in the fungal donor crystal 2Y9X, not in the human model. It was
+selected for, so it cannot serve as evidence of quality, and it does not describe the human
+receptor in any case.
+
+The human receptor has NO pose-level validation. No crystallographic complex of human tyrosinase
+with any ligand exists to redock against.
+
+Independently confirmed from 19_redock.log: the default scoring function does not see the
+binuclear centre. Hydroquinone scores -5.3 in the human receptor with Cu, with Cu as Zn, and with
+no metal; 0TR scores -6.20 in 2Y9X with and without Cu, at an identical pose, 5.74 A from the
+copper against a crystallographic 3.50 A.
+
+No benchmark content, gate condition or recorded attempt changes. This amendment withdraws a
+claim about the receptor only.
